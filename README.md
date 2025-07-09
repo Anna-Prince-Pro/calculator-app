@@ -1,16 +1,14 @@
-# calculator1
+A simple calculator app built using Flutter . This is my first mini project during my Flutter Andriod App Development Internship-July 2025.
 
-A new Flutter project.
+##Features:
+Add,Subtract,multiply,divide,and modulus operation.
+Clean UI with a responsive layout.
+Developed with Dart and Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##How to run??!
+Clone the repository.
+Run 'flutter pub get'.
+Run 'flutter run'.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created by Anna Maria Prince.
